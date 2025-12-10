@@ -1,2 +1,20 @@
-# Two versions of a Noughts and Crosses game - a console app and one using winforms
-# Computer moves set up to work out the best move to play with random choices added in for easier difficulties
+# ✖️⭕✖️ Noughts and Crosses ⭕✖️⭕
+
+A fully interactive Noughts and Crosses (Tic-Tac-Toe) game with 2-player mode and three computer player difficulty settings.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-7.0-blue?style=flat&logo=dotnet&logoColor=white)
+
+# ✨ Features:
+
+- Console app and WinForms UI versions.
+- Hard-coded computer player logic to ensure optimal moves are played.
+- Simple graphics using WinForms Panels and Buttons to change view and play moves.
+
+# 📝 Lessons learned:
+
+1. Increased familiarity with WinForms tools to create a finished application.
+2. Use of C# classes and methods to create reusable tools.
+3. Releasing an application with Visual Studio and pushing to GitHub.
+
+
