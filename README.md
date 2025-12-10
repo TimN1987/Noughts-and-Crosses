@@ -17,7 +17,7 @@ A fully interactive Noughts and Crosses (Tic-Tac-Toe) game with 2-player mode an
 
 1. Increased familiarity with WinForms tools to create a finished application.
 2. Use of C# classes and methods to create reusable tools.
-3. Releasing an application with Visual Studio and pushing to GitHub.
+3. Releasing an application with Visual Studio and creating a repo on GitHub.
 
 ## Tech Stack:
 
