@@ -19,7 +19,7 @@ A fully interactive Noughts and Crosses (Tic-Tac-Toe) game with 2-player mode an
 2. Use of C# classes and methods to create reusable tools.
 3. Releasing an application with Visual Studio and creating a repo on GitHub.
 
-## Tech Stack:
+## ⚙️ Tech Stack:
 
 - **Language:** C#
 - **Framework:** .NET 8
